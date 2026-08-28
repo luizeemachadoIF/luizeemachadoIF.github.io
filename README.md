@@ -3,7 +3,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="utf-8">
-        <title>lalala</title>
+        <title>Curículo</title>
     </head>
     <body>
       <header> 
